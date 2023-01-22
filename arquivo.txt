@@ -1,1 +1,1 @@
-Olá mundo, mergulando no GIT, testando mensagem
+Olá mundo, mergulando no GIT, testando mensagem, commitar mais de um arquivo
